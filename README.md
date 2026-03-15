@@ -4,7 +4,7 @@
 
 <br>
 
-**`Senior Laravel Engineer`** · **`SaaS Architect`** · **`Backend Developer`** · **`API Engineer`** · **`DevOps Enthusiast`**
+**`Senior PHP Laravel Engineer`** · **`SaaS Architect`** · **`Backend Developer`** · **`API Engineer`** · **`DevOps Enthusiast`**
 
 <br>
 
