@@ -20,16 +20,16 @@
 ## 🧑‍💻 What I Work With
 
 - **Backend**
-  `Laravel` `PHP` `Node.js` `Express.js` `REST API`
+  `Laravel` `PHP` `Codeigniter` `Node.js` `Express.js` `REST API`
 
 - **Frontend**
-  `Vue.js` `React` `Inertia.js` `TypeScript` `Tailwind CSS`
+  `Vue.js` `React` `Inertia.js` `TypeScript` `Tailwind CSS` `Bootstrap`
 
 - **Database & DevOps**
   `MySQL` `PostgreSQL` `Docker` `Nginx` `Linux` `GitHub Actions` `PM2`
 
 - **Payments**
-  `Stripe` `SSLCommerz` `Selcom` `20+ payment gateways`
+  `Stripe` `Stripe Terminal` `MyFatoorah` `SSLCommerz` `Selcom` `20+ payment gateways`
 
 <br>
 
