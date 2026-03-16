@@ -142,8 +142,6 @@ Advanced Eloquent relationships — polymorphism, many-to-many, has-many-through
   </p>
 </details>
 
-<br>
-
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RayhanAbdullah1&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=00ff88&text_color=888888)
@@ -155,10 +153,10 @@ Advanced Eloquent relationships — polymorphism, many-to-many, has-many-through
 I'm currently open to remote contracts, SaaS projects, agency white-label work and long-term retainers.
 If you have something interesting in mind, let's talk.
 
+<br>
 
+🌐 **Portfolio** → [rayhan.dotodd.tech](https://rayhan.dotodd.tech) <br>
 
-🔗 **[rayhan.dotodd.tech](https://rayhan.dotodd.tech)** <br>
+📬 **Email** → rayhanabdullah912@gmail.com <br>
 
-📬 **rayhanabdullah912@gmail.com** <br>
-
-💼 **[linkedin.com/in/rayhanabdullah1](https://linkedin.com/in/rayhanabdullah1)**
+💼 **LinkedIn** → [linkedin.com/in/rayhanabdullah1](https://linkedin.com/in/rayhanabdullah1)
