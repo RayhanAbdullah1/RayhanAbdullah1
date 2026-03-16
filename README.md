@@ -110,7 +110,7 @@ Advanced Eloquent relationships — polymorphism, many-to-many, has-many-through
 - 🛡️ Certified Ethical Hacking — Creative IT Institute (2023)
 - ⚙️ Web Development with PHP Laravel — Creative IT Institute (2023)
 - ⚛️ ReactJS Scholarship — Creative IT Institute (2022)
-- 🎓 BTech CSE — Daffodil Institute of IT (2022–2026)
+- 🎓 B.Sc. in CSE — Daffodil Institute of IT (2020–2024)
 
 <br>
 
