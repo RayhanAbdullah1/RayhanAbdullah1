@@ -155,6 +155,6 @@ Advanced Eloquent relationships — polymorphism, many-to-many, has-many-through
 I'm currently open to remote contracts, SaaS projects, agency white-label work and long-term retainers.
 If you have something interesting in mind, let's talk.
 
-📬 **rayhanabdullah912@gmail.com**
-🔗 **[rayhan.dotodd.tech](https://rayhan.dotodd.tech)**
+📬 **rayhanabdullah912@gmail.com** <br>
+🔗 **[rayhan.dotodd.tech](https://rayhan.dotodd.tech)** <br>
 💼 **[linkedin.com/in/rayhanabdullah1](https://linkedin.com/in/rayhanabdullah1)**
