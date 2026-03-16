@@ -84,7 +84,7 @@ white-label partner — I've likely built something similar before.
 ## 🗂️ Personal Projects
 
 **[expressSpaAuth](https://github.com/RayhanAbdullah1/expressSpaAuth)**
-A minimal Laravel-inspired MVC framework built on top of Express.js — server-side routing, middleware, controllers, dynamic HTML components and session auth. Zero build step, minimal dependencies.
+A minimal CodeIgniter-inspired MVC framework built on top of Express.js. Flexible and unopinionated by design — start small, structure it your way, and scale it to enterprise level without rewriting anything. Zero build step. Minimal dependencies. Runs anywhere Node.js runs.
 
 **[tenancyForLaravel](https://github.com/RayhanAbdullah1/tenancyForLaravel)**
 Multi-tenant SaaS with separate database per tenant and Spatie role-based permissions.
