@@ -132,7 +132,7 @@ Advanced Eloquent relationships — polymorphism, many-to-many, has-many-through
     I stopped thinking like a student and started thinking like an engineer.
   </p>
   <p>
-    4 years of production work — fixing bugs at 2am, integrating payment gateways for
+    2 years of production work — fixing bugs at 2am, integrating payment gateways for
     clients in East Africa, deploying ERPs used by thousands of schools — that shaped how
     I think about software. Not just "does it work" but "will it hold up."
   </p>
