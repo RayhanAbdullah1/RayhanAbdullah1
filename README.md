@@ -37,7 +37,7 @@
 
 ## 🏗️ Production Work
 
-For 4 years at **[iNiLabs](https://inilabs.net)** I contributed to 10+ commercial SaaS products
+For 1.5 years at **[iNiLabs](https://inilabs.net)** I contributed to 10+ commercial SaaS products
 sold on Envato CodeCanyon — covering backend architecture, payment integrations,
 client customizations and production server deployments.
 
