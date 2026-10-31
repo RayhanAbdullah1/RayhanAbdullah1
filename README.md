@@ -9,7 +9,7 @@
 <br>
 
 > I believe great software is built through continuous learning and real-world problem solving.
-> Over the past 4 years I've gone from writing my first Laravel routes to engineering SaaS platforms
+> Over the past 2 years I've gone from writing my first Laravel routes to engineering SaaS platforms
 > used by 8,700+ businesses across the globe. Every project taught me something new —
 > and that's exactly what keeps me going.
 
